@@ -4,7 +4,7 @@
 A simple hangman game in which one person enters a word and another has to divide it by entering letters. This was my very first project in rust which required me to think a bit.
 
 ### Minimal-Book-Manager : 
-A book manager with a graphical interface in which you can add and delete books in a database. I used Sqlx as the database and gtk4 for the interface. This was my first use of a database and GUI library in Rust.
+A book manager with a graphical interface in which you can add and delete books in a database. I used Sqlx as the database and gtk4 for the interface. This was my first use of a database in Rust.
 
 Depedencies for Minimal-Book-Manager :
 
@@ -22,10 +22,10 @@ If you'd like to change passsword and user you have to change the pools variable
 
 
 ### Rock-Paper-Scissors : 
-A simple paper rock scissors game. In which you play against the machine.
+A simple paper rock scissors game. This is my first project in Rust.
 
-### The-Price-Is-High : 
-A simple the price is high game this was my very first project in rust.
+### The-Price-Is-Right : 
+A simple the price is high game with a graphical interface (gtk4). This is my firt use of a graphical interface.
 
 ### TicTacToe : 
 A simple tic-tac-toe game in the terminal. 
