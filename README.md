@@ -8,7 +8,7 @@ A book manager with a graphical interface in which you can add and delete books 
 
 Depedencies for Minimal-Book-Manager :
 
-* sudo snap install docker (Ubuntu/Debian) : 
+* Install docker (Ubuntu/Debian) : 
 ```
 sudo snap install docker
 ```
